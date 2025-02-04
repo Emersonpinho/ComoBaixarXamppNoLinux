@@ -35,7 +35,6 @@ Para instalar o XAMPP, precisamos abrir o **Terminal**. Existem algumas maneiras
 1️⃣ Pressione `Ctrl + Alt + T` para abrir rapidamente.  
 2️⃣ Ou pesquise por **Terminal** no menu de aplicativos e abra.  
 
-📸 **Print aqui** ⬇  
 
 ---
 
