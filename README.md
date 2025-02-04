@@ -12,12 +12,13 @@
 O XAMPP pode ser baixado diretamente do site oficial:  
 
 🔗 **Acesse:** [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)  
-
+<div style="width: 300px; height: 300px; border: 2px solid #000; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Emersonpinho/ComoBaixarXamppNoLinux/blob/main/img/Captura%20de%20tela%20de%202025-02-04%2015-04-04.png" alt="Descrição da imagem" style="max-width: 100%; max-height: 100%;">
+</div>
 
 
 > O arquivo baixado ficará na pasta **"Downloads"** por padrão.  
 
-📸 **Print aqui** ⬇  
 
 ---
 
