@@ -43,9 +43,7 @@ cd ~/Downloads
 2️⃣ Torne o arquivo **executável** com o comando:  
 ```bash
 chmod +x xampp-linux-x64-*.run
-```  
-
-📸 **Print aqui** ⬇  
+```   
 
 ---
 
@@ -58,7 +56,6 @@ sudo ./xampp-linux-x64-*.run
 
 > O **sudo** é necessário porque estamos instalando um software no sistema.  
 
-📸 **Print aqui** ⬇  
 
 ---
 
